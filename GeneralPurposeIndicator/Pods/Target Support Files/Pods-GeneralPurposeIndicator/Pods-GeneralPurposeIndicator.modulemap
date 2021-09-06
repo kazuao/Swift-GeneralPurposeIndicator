@@ -1,0 +1,6 @@
+framework module Pods_GeneralPurposeIndicator {
+  umbrella header "Pods-GeneralPurposeIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
